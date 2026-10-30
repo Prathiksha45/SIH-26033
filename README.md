@@ -44,6 +44,7 @@ Main Objective: To create a transparent agricultural marketplace where farmers r
 The proposed system follows a simple digital marketplace architecture with AI-based price prediction, product management and logistics support.
 
 Technology	Purpose
+
 Frontend development:HTML, CSS, JavaScript	
 Backend programming:Python	
 Web application framework:Django / Flask	
@@ -71,27 +72,32 @@ System Architecture
 
 ## Feasibility and Viability
 The proposed SmartFarm platform is feasible because it uses existing web technologies, databases and AI techniques.
+
  Technical Feasibility
 - Can be developed using Python, Django, HTML, CSS and JavaScript.
 - MySQL can store farmer, buyer and product information.
 - Machine learning models can analyse historical market prices and predict price trends.
 - Google Maps API can support location-based delivery coordination.
 - Cloud hosting allows the platform to be accessed from different locations.
+
  Economic Feasibility
 - Uses open-source technologies, reducing development costs.
 - Reduces unnecessary commission expenses by enabling direct transactions.
 - Farmers can access more buyers without establishing their own physical shops.
 - FPOs can help reduce transportation and storage costs through bulk handling.
+
  Operational Feasibility
 - Simple and user-friendly interface for farmers and buyers.
 - Mobile-friendly design allows access through smartphones.
 - Regional language support helps farmers use the platform easily.
 - Training and assistance can be provided through FPOs and local agricultural centres.
+
  Viability
 - The platform can generate revenue through a small transparent service fee, optional premium services and logistics partnerships.
 - It can expand to different villages, districts and states.
 - Partnerships with FPOs, retailers and transport providers can support long-term operations.
 - Regular updates and maintenance can improve platform performance.
+
 ## Impact and Benefits
 A. Benefits to Farmers
 - Better selling prices by connecting directly with buyers.
@@ -100,34 +106,46 @@ A. Benefits to Farmers
 - Transparent pricing and transaction records.
 - Better production planning through demand forecasting.
 - Faster and more convenient digital payments.
+
 B. Benefits to Consumers
 - Fresh agricultural products at reasonable prices.
 - Reduced additional costs from multiple intermediaries.
 - Access to product details and quality information.
 - More choices from different farmers.
 - Convenient online purchasing.
+
 C. Benefits to Retailers
 - Direct access to farmers and FPOs.
 - Bulk purchasing opportunities.
 - Reduced procurement costs.
 - Better availability of agricultural products.
+
 D. Social and Environmental Impact
 - Supports rural economic development.
 - Encourages digital literacy among farmers.
 - Reduces unnecessary transportation and handling.
 - Helps reduce food wastage through better demand planning.
 - Strengthens the relationship between farmers and consumers.
+
 Expected Overall Impact
+
 For Farmers
-Better income opportunities
+
+Better income opportunities.
 Improved market access and transparent price discovery.
+
 For Consumers
-Affordable fresh produce
+
+Affordable fresh produce.
 More direct purchasing choices and reduced unnecessary costs.
+
 For Society
-Stronger rural economy
+
+Stronger rural economy.
 A more transparent and efficient agricultural supply chain.
+
 ## Research and References
+
 Research Findings
 Our proposed solution is supported by existing agricultural initiatives and research.
 
