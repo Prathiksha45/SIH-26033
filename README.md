@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 30/10/2026
+## Reference Number: 26016460
+## Name: Prathiksha.B
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -172,7 +172,8 @@ References
 6. e-NAM Farmer Benefits and Registration: Read farmer information.
 7. SFAC – Farmer Producer Organization Scheme: Read FPO information.
 
-6. Conclusion
+Conclusion
+
 SmartFarm provides a digital solution to the problem of multiple intermediaries in agricultural marketing. By connecting farmers, FPOs, retailers and consumers through a common platform, it aims to improve farmers' income and reduce unnecessary costs for consumers.
 The integration of AI-based price recommendations, demand forecasting, transparent transactions and logistics coordination makes the proposed system a practical and scalable solution.
 Our ultimate goal is to ensure that farmers receive fair value for their hard work while consumers get quality agricultural products at affordable prices.
