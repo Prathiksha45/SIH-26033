@@ -65,15 +65,8 @@ Working Process
 9. Payments are processed securely.
 10.Farmers and buyers receive order and transaction updates.
 
-System Architecture
-                                
-
-
-
-
-
-
-
+System Architecture                            
+<img width="1536" height="817" alt="Flowchart" src="https://github.com/user-attachments/assets/18750853-b899-4c56-8481-b818e03bae7f" />
 
 
 ## Feasibility and Viability
